@@ -1,0 +1,14 @@
+.h1{
+    color:black;
+
+}
+
+.maindiv{
+    font-family:'Courier New', Courier, monospace;
+}
+.body{
+    background-color: rgb(255, 255, 255);
+}
+.navbar{
+    font-weight: bold;
+}
